@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ljsag/AndroidStudioProjects/CConverter2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ljsag/AndroidStudioProjects/CConverter2/app/src/main/res/layout/currency_details.xml" value="0.8306451612903226" />
+        <entry key="..\:/Users/ljsag/AndroidStudioProjects/CConverter2/app/src/main/res/layout/currency_item.xml" value="0.1" />
         <entry key="..\:/Users/ljsag/AndroidStudioProjects/CConverter2/app/src/main/res/layout/main_fragment.xml" value="0.13405797101449277" />
       </map>
     </option>

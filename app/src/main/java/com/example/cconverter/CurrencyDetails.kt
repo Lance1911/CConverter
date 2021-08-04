@@ -76,7 +76,7 @@ class CurrencyDetails: Fragment(R.layout.currency_details), recyclerAdapter.OnCu
             recyclerView.setHasFixedSize(true)
         }
     }
-    
+
 
     override fun onCurrencyClickListener(position: Int) {
         if (!observingPinnedList) {
